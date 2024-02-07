@@ -1,0 +1,15 @@
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\bin\Debug\net6.0\DrinksDispenser.exe
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\bin\Debug\net6.0\DrinksDispenser.deps.json
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\bin\Debug\net6.0\DrinksDispenser.runtimeconfig.json
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\bin\Debug\net6.0\DrinksDispenser.dll
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\bin\Debug\net6.0\DrinksDispenser.pdb
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\DrinksDispenser.csproj.AssemblyReference.cache
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\DrinksDispenser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\DrinksDispenser.AssemblyInfoInputs.cache
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\DrinksDispenser.AssemblyInfo.cs
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\DrinksDispenser.csproj.CoreCompileInputs.cache
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\DrinksDispenser.dll
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\refint\DrinksDispenser.dll
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\DrinksDispenser.pdb
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\DrinksDispenser.genruntimeconfig.cache
+C:\Users\fgube001\source\repos\VendingMachine\VendingMachine\obj\Debug\net6.0\ref\DrinksDispenser.dll
